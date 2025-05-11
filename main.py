@@ -4,6 +4,11 @@
 #should test on the ones you ,mr teacher, gave us
 # it shows time and result 
 
+
+
+#I ALSO HAVE SOME EXPLANATIONS FOR WHAT I DID RIGHT BELOW
+
+
 import time
 from dpll_solver import dpll, parse_cnf
 

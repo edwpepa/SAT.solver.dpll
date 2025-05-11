@@ -4,7 +4,11 @@
 # tbh not that hard, just recursive guessing and checking if it works
 # it’s not the fastest thing but it gets the job done on small formulas so yeah :)))
 
-# this one checks if all clauses are true based on the current "assignment"
+
+#I ALSO HAVE SOME EXPLANATIONS FOR WHAT I DID RIGHT BELOW
+
+
+# at this one it cehcks if all clauses are true based on the current assignment"
 def is_satisfied(clauses, assignment):
     for clause in clauses:
         # if even one clause doesnt have at least 1 literal in the assignment, then no it’s not satisfied
